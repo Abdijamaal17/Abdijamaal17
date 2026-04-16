@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Abdijamaal+Mohamuud;Penetration+Tester;Bug+Bounty+Hunter;Cybersecurity+Student" alt="Typing SVG" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Abdijamaal+Mohamuud;Penetration+Tester;Bug+Bounty+Hunter;Cybersecurity+Student" alt="Typing SVG" /> </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackerOne-milhox17-black?style=for-the-badge&logo=hackerone&logoColor=white" />
@@ -14,12 +12,12 @@
 
 ```python
 class AbdijamaalMohamuud:
-    role      = "Cybersecurity Student @ Kristiania University College"
-    focus     = ["Web App Pentesting", "Bug Bounty", "Offensive Security"]
-    platform  = "HackerOne  (milhox17)"
-    tools     = ["Burp Suite Pro", "Nmap", "sqlmap", "Subfinder", "Nuclei"]
+    role = "Cybersecurity Student @ Kristiania University College"
+    focus = ["Web App Pentesting", "Bug Bounty", "Offensive Security"]
+    platform = "HackerOne (milhox17)"
+    tools = ["Burp Suite Pro", "Nmap", "sqlmap", "Subfinder", "Nuclei"]
     currently = "Hunting bugs on HackerOne + building pentest tools"
-    motto     = "Break it to understand it. Document it to prove it."
+    motto = "Break it to understand it. Document it to prove it."
 ```
 
 ---
@@ -28,7 +26,6 @@ class AbdijamaalMohamuud:
 
 ### Bug Bounty — Bitstamp (HackerOne)
 Active research on Bitstamp cryptocurrency exchange
-
 - Enumerated **64 subdomains** and mapped **100+ API endpoints**
 - Found **AWS credentials exposed** in archived URLs (Critical)
 - Identified **IDOR** in account data API (High)
@@ -36,7 +33,6 @@ Active research on Bitstamp cryptocurrency exchange
 
 ### Penetration Test — FS-Security
 Black-box web application pentest — 34-page report
-
 - **SQL Injection to Root** (CVSS 9.8 Critical)
 - Stored XSS, missing headers, verbose error messages
 - [Full writeup](https://github.com/Abdijamaal17/cybersec-portfolio/blob/main/writeups/fs-security-pentest.md)
@@ -86,7 +82,7 @@ Black-box web application pentest — 34-page report
 |------|-------------|
 | [cybersec-portfolio](https://github.com/Abdijamaal17/cybersec-portfolio) | OWASP methodology, pentest writeups, bug bounty reports |
 | [pentest-lab-reports](https://github.com/Abdijamaal17/pentest-lab-reports) | Lab reports following OWASP standards |
-| [webscanner-](https://github.com/Abdijamaal17/webscanner-) | Web vulnerability scanner CLI tool |
+| [webscanner](https://github.com/Abdijamaal17/webscanner) | Web vulnerability scanner CLI tool |
 | [Scaner](https://github.com/Abdijamaal17/Scaner) | Hunt — recon automation |
 
 ---
