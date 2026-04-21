@@ -15,7 +15,7 @@
 
 <!-- ══════════════════ SOCIALS ══════════════════ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdijamaal-suleey/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdijamaal-mohamuud-624959332/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jamaalsuleey5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Abdijamaal17&style=for-the-badge&color=2F81F7&label=Profile+views" />
   <img src="https://img.shields.io/github/followers/Abdijamaal17?style=for-the-badge&logo=github&color=2F81F7&labelColor=0D1117" />
@@ -27,8 +27,8 @@
 
 - 🎓  BSc Information Technology @ **Kristiania University of Applied Sciences** — Oslo
 - 🔐  Specializing in **cybersecurity** with a focus on web-application security and secure coding
-- 💻  Comfortable across the stack from **Python & Bash** scripting to **TypeScript & Node.js** web apps
-- 🧪  Passionate about **hands-on learning**  I build tools, break things in lab environments, and document everything
+- 💻  Comfortable across the stack — from **Python & Bash** scripting to **TypeScript & Node.js** web apps
+- 🧪  Passionate about **hands-on learning** — I build tools, break things in lab environments, and document everything
 - 🌱  Currently learning: **secure software development**, **cloud fundamentals (AWS / Azure)**, **CI/CD pipelines**
 - 🎯  Open to **internships, sommerjobb, part-time & junior roles** in Norway and remote-EU
 - 📫  Reach me at **jamaalsuleey5@gmail.com**
@@ -130,7 +130,7 @@ Hands-on lab reports from controlled training environments with reproducible met
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdijamaal17/Abdijamaal17/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdijamaal17&theme=github-compact&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&area_color=2F81F7" alt="activity graph" />
 </p>
 
 ---
@@ -139,7 +139,7 @@ Hands-on lab reports from controlled training environments with reproducible met
 
 | | |
 |---|---|
-| 🎓 | **BSc Information Technology** Kristiania University of Applied Sciences · 2024–2027 |
+| 🎓 | **BSc Information Technology** — Kristiania University of Applied Sciences · 2024–2027 |
 | 📘 | Relevant courses: `Cyber Defence` · `Network Security` · `Web Development` · `Databases` · `Software Engineering` |
 | 🌱 | *Currently exploring:* secure software development · cloud fundamentals · CI/CD pipelines |
 
@@ -147,12 +147,12 @@ Hands-on lab reports from controlled training environments with reproducible met
 
 ### 🤝  Let's Connect
 
-I'm actively looking for **internships, sommerjobb and junior roles** in IT and cybersecurity  based in Norway or remote-EU.
+I'm actively looking for **internships, sommerjobb and junior roles** in IT and cybersecurity — based in Norway or remote-EU.
 If you're hiring or want to talk tech, I'd love to hear from you.
 
 <p align="center">
   <a href="mailto:jamaalsuleey5@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdijamaal-suleey/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdijamaal-mohamuud-624959332/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
