@@ -27,8 +27,8 @@
 
 - 🎓  BSc Information Technology @ **Kristiania University of Applied Sciences** — Oslo
 - 🔐  Specializing in **cybersecurity** with a focus on web-application security and secure coding
-- 💻  Comfortable across the stack — from **Python & Bash** scripting to **TypeScript & Node.js** web apps
-- 🧪  Passionate about **hands-on learning** — I build tools, break things in lab environments, and document everything
+- 💻  Comfortable across the stack from **Python & Bash** scripting to **TypeScript & Node.js** web apps
+- 🧪  Passionate about **hands-on learning**  I build tools, break things in lab environments, and document everything
 - 🌱  Currently learning: **secure software development**, **cloud fundamentals (AWS / Azure)**, **CI/CD pipelines**
 - 🎯  Open to **internships, sommerjobb, part-time & junior roles** in Norway and remote-EU
 - 📫  Reach me at **jamaalsuleey5@gmail.com**
@@ -139,7 +139,7 @@ Hands-on lab reports from controlled training environments with reproducible met
 
 | | |
 |---|---|
-| 🎓 | **BSc Information Technology** — Kristiania University of Applied Sciences · 2024–2027 |
+| 🎓 | **BSc Information Technology** Kristiania University of Applied Sciences · 2024–2027 |
 | 📘 | Relevant courses: `Cyber Defence` · `Network Security` · `Web Development` · `Databases` · `Software Engineering` |
 | 🌱 | *Currently exploring:* secure software development · cloud fundamentals · CI/CD pipelines |
 
@@ -147,7 +147,7 @@ Hands-on lab reports from controlled training environments with reproducible met
 
 ### 🤝  Let's Connect
 
-I'm actively looking for **internships, sommerjobb and junior roles** in IT and cybersecurity — based in Norway or remote-EU.
+I'm actively looking for **internships, sommerjobb and junior roles** in IT and cybersecurity  based in Norway or remote-EU.
 If you're hiring or want to talk tech, I'd love to hear from you.
 
 <p align="center">
